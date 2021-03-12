@@ -1,24 +1,26 @@
 #Identitas Pribadi
-print("--------------------------------------")
-print("           Identitas Pribadi          ")
-print("--------------------------------------")
 
 nama    = "Nama Lengkap                    = Halidya Siti Hanifah"
 nim     = "NIM                             = I0320044"
-ttl     = "Tempat/tanggal lahir            = Cianjur, 6 Juli 2001"
+ttl     = "Tempat lahir                    = Cianjur, 6 Juli 2001"
 jenis_kelamin = "Jenis Kelamin                   = Perempuan"
 Instansi = "Instansi                        = Universitas Sebelas Maret"
 Fakultas = "Fakultas                        = Teknik Industri"
 Kelas   = "Kelas                           = B"
-tinggal = "h."
-kampung = "Kota Bogor adalah sebuah kota yang berprovinsi di Jawa Barat." \
-        "\nBogor dikenal dengan sebutan Kota Hujan karena memiliki curah hujan yang tinggi." \
-        "\nDi daerah tempat tinggal saya dipenuhi dengan pohon kenari yang sudah berumur ratusan tahun sehingga suasananya sangat sejuk." \
-        "\nDitambah lagi di dekat rumah saya terdapat gor pajajaran sehingga sangat nyaman untuk berolahraga disana."
-umur = ((19*12) + 8)
-tinggi = float(input())
-ukuran_sepatu = int(input())
+semester = "Semester                        = 2"
+alamat =  "Alamat                          = Jln. Ahmad Yani Gang karet 1 No. 10, Kecamatan Tanah Sareal, Kota Bogor 16161"
+saudara  = "Saudara                         = 2"
+anak_ke  = "Anak Ke                         = 1"
+Hobi    = "Hobi                            = bermain musik dan mendengarkan lagu"
+cita_cita = "Cita - cita                     = manajer perusahaan"
+umur = int(input("masukkan tahun sekarang : "))
+Umur = umur - 2001
+tinggi = float(input("masukkan tinggi badan   : "))
+ukuran_sepatu = int(input("masukkan ukuran sepatu  : "))
 
+print("--------------------------------------")
+print("           Identitas Pribadi          ")
+print("--------------------------------------")
 print(nama)
 print(nim)
 print(ttl)
@@ -26,10 +28,13 @@ print(jenis_kelamin)
 print(Instansi)
 print(Fakultas)
 print(Kelas)
-print(tinggal)
-print(kampung)
-print("Umur saya adalah ", umur, "bulan")
-print("Tinggi saya adalah ",tinggi,"cm")
+print(alamat)
+print(saudara)
+print(anak_ke)
+print(Hobi)
+print(cita_cita)
+print("Umur saya adalah ", Umur, "tahun")
+print("Tinggi saya adalah ", tinggi,"cm")
 print("Ukuran sepatu saya adalah ",ukuran_sepatu)
 
 
