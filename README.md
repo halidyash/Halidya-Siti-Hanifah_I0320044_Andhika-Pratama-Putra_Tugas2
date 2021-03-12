@@ -1,4 +1,4 @@
-# Halidya-Siti-Hanifah_I0320044_Andhika_Tugas2
+# Halidya-Siti-Hanifah_I0320044_Andhika-Pratama-Putra_Tugas2
 
 ## Daftar Isi
 
