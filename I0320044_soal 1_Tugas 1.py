@@ -17,13 +17,13 @@ sisi = float(input("Masukkan sisi kubus : "))
 luas_kubus = (6 * (sisi * sisi))
 print("Luas Kubus adalah",luas_kubus, "cm2")
 
-#Konversi Suhu Celcius ke Fahrenheit
+#Konversi Suhu dari Celcius ke Fahrenheit
 print("--Konversi Suhu dari Celcius ke Fahrenheit--")
 celcius = float(input("Masukkan suhu dalam celcius : "))
 fahrenheit = ((9/5) * celcius + 32)
 print("Suhu dalam Fahrenheit adalah ",fahrenheit,"F")
 
-#Konversi Suhu Reamur ke Kelvin
+#Konversi Suhu dari Reamur ke Kelvin
 print("--Konversi Suhu dari Reamur ke Kelvin--")
 Reamur = float(input("Masukkan suhu dalam reamur : "))
 Kelvin = ((5/4) * Reamur + 273)
