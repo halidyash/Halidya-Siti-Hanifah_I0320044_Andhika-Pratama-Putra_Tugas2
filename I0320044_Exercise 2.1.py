@@ -1,18 +1,18 @@
-#tipe data Boolean
+#Tipe data Boolean
 print(True)
 
-#tipe data String
+#Tipe data String
 print("Ayo belajar Python")
 print('Belajar Python Sangat Mudah')
 
-#tipe  data Integer
+#Tipe  data Integer
 print(20)
 
-#tipe data Float
+#Tipe data Float
 print(3.14)
 
-#tipe data Hexadecimal
+#Tipe data Hexadecimal
 print(9a)
 
-#tipe data Complex
+#Tipe data Complex
 print(5j)

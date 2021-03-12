@@ -18,9 +18,9 @@ Umur = umur - 2001
 tinggi = float(input("masukkan tinggi badan   : "))
 ukuran_sepatu = int(input("masukkan ukuran sepatu  : "))
 
-print("------------------------------------------")
-print("             Identitas Pribadi            ")
-print("------------------------------------------")
+print("-------------------------------------------")
+print("              Identitas Pribadi            ")
+print("-------------------------------------------")
 print(nama)
 print(nim)
 print(ttl)

@@ -1,17 +1,17 @@
-#Luas Persegi Panjang
+#Luas bentuk Persegi Panjang
 print("--Luas Persegi Panjang dalam cm--")
 panjang = float(input("Masukkan Panjang persegi panjang : "))
 lebar = float(input("Masukkan Lebar persegi panjang : "))
 luas_persegi_panjang = panjang * lebar
 print("Luas Persegi Panjang adalah ",luas_persegi_panjang, "cm2")
 
-#Luas Lingkaran
+#Luas bentuk Lingkaran
 print("--Luas Lingkaran dalam cm--")
 jari_jari = float(input("Masukkan jari-jari lingkaran : "))
 luas_lingkaran = ((22/7) * jari_jari * jari_jari)
 print("Luas Lingkaran adalah ",luas_lingkaran, "cm2")
 
-#Luas Kubus
+#Luas bentuk Kubus
 print("--Luas Kubus dalam cm--")
 sisi = float(input("Masukkan sisi kubus : "))
 luas_kubus = (6 * (sisi * sisi))
